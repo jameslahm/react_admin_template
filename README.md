@@ -1,4 +1,4 @@
-# New Project
+# REACT ADMIN TEMPLATE
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
